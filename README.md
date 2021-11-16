@@ -40,7 +40,7 @@ The following resources have been used to achieve the objective of this project:
 The structure of this project is composed of:
  1. A folder called "Notebooks" that contains: 
 
-    a) A Jupyter Notebook document where I have made the request to the Foursquare API, evaluated the different location alternatives and weighing the possible solutions in order to get to one final conclusion. In this file, I have also printed a map for each city where information collected from the API can be shown.  
+    a) A Jupyter Notebook document called "Foursquare_geoquery_map" where I have made the request to the Foursquare API, evaluated the different location alternatives and weighing the possible solutions in order to get to one final conclusion. In this file, I have also printed a map for each city where information collected from the API can be shown.  
 
     b) 3 files .json that have been used to import data of each city to 3 different collections in MongoDB Compass.
 
