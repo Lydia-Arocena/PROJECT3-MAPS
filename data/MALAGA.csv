@@ -1,0 +1,62 @@
+,nombre,latitud,longitud,location,categoria,ciudad
+0,Empresas de reformas,36.72103308699949,-4.410109519958496,"{'type': 'Point', 'coordinates': [36.72103308699949, -4.410109519958496]}",Diseño,Málaga
+1,Tango Estudio de diseño,36.72118788261539,-4.424590766429901,"{'type': 'Point', 'coordinates': [36.72118788261539, -4.424590766429901]}",Diseño,Málaga
+2,Medio Melón Estudio de Diseño Gráfico,36.72384085898497,-4.418048858642578,"{'type': 'Point', 'coordinates': [36.72384085898497, -4.418048858642578]}",Diseño,Málaga
+8,Gauss Multimedia Escuela de Diseño,36.72097569858152,-4.474269013226737,"{'type': 'Point', 'coordinates': [36.72097569858152, -4.474269013226737]}",Diseño,Málaga
+2,Aeropuerto de Málaga - Costa del Sol (AGP) (Aeropuerto de Málaga - Costa del Sol),36.67705614348641,-4.49209094982326,"{'type': 'Point', 'coordinates': [36.67705614348641, -4.49209094982326]}",Aeropuerto,Málaga
+0,Starbucks Félix Saenz,36.719120753900825,-4.423157707352322,"{'type': 'Point', 'coordinates': [36.719120753900825, -4.423157707352322]}",Starbucks,Málaga
+1,Starbucks ECI Málaga Hilera,36.71807037393208,-4.429668877296518,"{'type': 'Point', 'coordinates': [36.71807037393208, -4.429668877296518]}",Starbucks,Málaga
+2,Starbucks McArthur Glen,36.658077,-4.477995,"{'type': 'Point', 'coordinates': [36.658077, -4.477995]}",Starbucks,Málaga
+3,Starbucks,36.677194301399446,-4.4939446449279785,"{'type': 'Point', 'coordinates': [36.677194301399446, -4.4939446449279785]}",Starbucks,Málaga
+4,Starbucks,36.67634592995135,-4.491326808929443,"{'type': 'Point', 'coordinates': [36.67634592995135, -4.491326808929443]}",Starbucks,Málaga
+5,Starbucks On The Go,36.7185,-4.484278,"{'type': 'Point', 'coordinates': [36.7185, -4.484278]}",Starbucks,Málaga
+6,Starbucks,36.545151,-4.630468,"{'type': 'Point', 'coordinates': [36.545151, -4.630468]}",Starbucks,Málaga
+7,Starbucks CC Miramar,36.529117,-4.631689,"{'type': 'Point', 'coordinates': [36.529117, -4.631689]}",Starbucks,Málaga
+8,Starbucks On The Go,36.6131812,-4.52858966,"{'type': 'Point', 'coordinates': [36.6131812, -4.52858966]}",Starbucks,Málaga
+9,Starbucks On The Go,36.6131812,-4.52858966,"{'type': 'Point', 'coordinates': [36.6131812, -4.52858966]}",Starbucks,Málaga
+10,Starbucks On The Go,36.61318145,-4.52860575,"{'type': 'Point', 'coordinates': [36.61318145, -4.52860575]}",Starbucks,Málaga
+11,Starbucks On The Go,36.61210497,-4.52728966,"{'type': 'Point', 'coordinates': [36.61210497, -4.52728966]}",Starbucks,Málaga
+12,Starbucks On The Go,36.91691851,-4.43910122,"{'type': 'Point', 'coordinates': [36.91691851, -4.43910122]}",Starbucks,Málaga
+13,Starbucks On The Go,36.7600575,-4.04989202,"{'type': 'Point', 'coordinates': [36.7600575, -4.04989202]}",Starbucks,Málaga
+14,Starbucks On The Go,36.7600575,-4.04989202,"{'type': 'Point', 'coordinates': [36.7600575, -4.04989202]}",Starbucks,Málaga
+15,Starbucks On The Go,36.51935879,-4.83104254,"{'type': 'Point', 'coordinates': [36.51935879, -4.83104254]}",Starbucks,Málaga
+16,Starbucks La Cañada,36.521859,-4.872305,"{'type': 'Point', 'coordinates': [36.521859, -4.872305]}",Starbucks,Málaga
+0,Disco Bronco,36.71494421198828,-4.424099922180176,"{'type': 'Point', 'coordinates': [36.71494421198828, -4.424099922180176]}",Disco,Málaga
+1,Clasic Disco Club,36.719222,-4.411931,"{'type': 'Point', 'coordinates': [36.719222, -4.411931]}",Disco,Málaga
+2,Disco-Sala La Farándula,36.72777938200232,-4.394268658807481,"{'type': 'Point', 'coordinates': [36.72777938200232, -4.394268658807481]}",Disco,Málaga
+3,Discos Candilejas,36.72188758850098,-4.4217449426651,"{'type': 'Point', 'coordinates': [36.72188758850098, -4.4217449426651]}",Disco,Málaga
+5,Discoteca Andén,36.72260692286189,-4.420381324170116,"{'type': 'Point', 'coordinates': [36.72260692286189, -4.420381324170116]}",Disco,Málaga
+7,Disco Pub Límite,36.9288995645731,-4.5308732986450195,"{'type': 'Point', 'coordinates': [36.9288995645731, -4.5308732986450195]}",Disco,Málaga
+8,Disco Pub Sánchez,36.93126662396657,-4.527955055236816,"{'type': 'Point', 'coordinates': [36.93126662396657, -4.527955055236816]}",Disco,Málaga
+10,Disco Eugenio's,36.6211051940918,-4.49855375289917,"{'type': 'Point', 'coordinates': [36.6211051940918, -4.49855375289917]}",Disco,Málaga
+11,Disco @Las Palomas,36.615637,-4.50239,"{'type': 'Point', 'coordinates': [36.615637, -4.50239]}",Disco,Málaga
+13,Disco Kiu,36.599032971689894,-4.518024822043462,"{'type': 'Point', 'coordinates': [36.599032971689894, -4.518024822043462]}",Disco,Málaga
+14,Antigua Discoteca Rafael,36.72675844666286,-4.35969694286062,"{'type': 'Point', 'coordinates': [36.72675844666286, -4.35969694286062]}",Disco,Málaga
+15,Discoteca Voltaje,36.622727,-4.500139,"{'type': 'Point', 'coordinates': [36.622727, -4.500139]}",Disco,Málaga
+16,Dutch Bar Disco,36.59649036478701,-4.555660422023058,"{'type': 'Point', 'coordinates': [36.59649036478701, -4.555660422023058]}",Disco,Málaga
+17,Disco Pub <kabe>,36.90399258638306,-4.335429322283725,"{'type': 'Point', 'coordinates': [36.90399258638306, -4.335429322283725]}",Disco,Málaga
+18,Discovery Bar,36.600977,-4.515824,"{'type': 'Point', 'coordinates': [36.600977, -4.515824]}",Disco,Málaga
+19,Discoteca Atrevete,36.606160473719314,-4.508179679140445,"{'type': 'Point', 'coordinates': [36.606160473719314, -4.508179679140445]}",Disco,Málaga
+20,Disco Pub Junco,36.764129,-4.709246,"{'type': 'Point', 'coordinates': [36.764129, -4.709246]}",Disco,Málaga
+21,Disco Pub Mavi,36.764392,-4.709304,"{'type': 'Point', 'coordinates': [36.764392, -4.709304]}",Disco,Málaga
+22,Disco Pub Yuka,36.76608657063345,-4.709443018357557,"{'type': 'Point', 'coordinates': [36.76608657063345, -4.709443018357557]}",Disco,Málaga
+23,Chicago Karaoke Discoteca,36.621124,-4.497914,"{'type': 'Point', 'coordinates': [36.621124, -4.497914]}",Disco,Málaga
+24,Lucifer Discoteca,36.621773,-4.498728,"{'type': 'Point', 'coordinates': [36.621773, -4.498728]}",Disco,Málaga
+25,Budha,36.599200154437995,-4.532587763062026,"{'type': 'Point', 'coordinates': [36.599200154437995, -4.532587763062026]}",Disco,Málaga
+26,Studio Disco,36.590938,-4.604666,"{'type': 'Point', 'coordinates': [36.590938, -4.604666]}",Disco,Málaga
+27,Disco chimeneas,36.8857195,-4.1456031,"{'type': 'Point', 'coordinates': [36.8857195, -4.1456031]}",Disco,Málaga
+28,Boss Disco,36.542149620135234,-4.61948619937999,"{'type': 'Point', 'coordinates': [36.542149620135234, -4.61948619937999]}",Disco,Málaga
+29,Mango Discoteca,36.58355148386248,-4.539223542463941,"{'type': 'Point', 'coordinates': [36.58355148386248, -4.539223542463941]}",Disco,Málaga
+0,Mimo Vegan Bistro,36.716062,-4.424227,"{'type': 'Point', 'coordinates': [36.716062, -4.424227]}",Vegan,Málaga
+1,Vegan La Siria,36.714369,-4.428553,"{'type': 'Point', 'coordinates': [36.714369, -4.428553]}",Vegan,Málaga
+2,Veganized - non toxic fashion,36.720366,-4.424072,"{'type': 'Point', 'coordinates': [36.720366, -4.424072]}",Vegan,Málaga
+3,Vegan Place,36.691046,-4.447781,"{'type': 'Point', 'coordinates': [36.691046, -4.447781]}",Vegan,Málaga
+4,Veganbnb,36.724776,-4.416009,"{'type': 'Point', 'coordinates': [36.724776, -4.416009]}",Vegan,Málaga
+5,La Vegana,36.724179,-4.418461,"{'type': 'Point', 'coordinates': [36.724179, -4.418461]}",Vegan,Málaga
+6,La Libélula Vegan,36.53900680182404,-4.628719807628735,"{'type': 'Point', 'coordinates': [36.53900680182404, -4.628719807628735]}",Vegan,Málaga
+7,The Grill House - Indian - Spanish - Italian - Vegetarian and Vegan Food,36.62420051,-4.50204278,"{'type': 'Point', 'coordinates': [36.62420051, -4.50204278]}",Vegan,Málaga
+8,Americano Vegano,36.624403,-4.499222,"{'type': 'Point', 'coordinates': [36.624403, -4.499222]}",Vegan,Málaga
+9,My Lola Vegan Food,36.540123,-4.6273985,"{'type': 'Point', 'coordinates': [36.540123, -4.6273985]}",Vegan,Málaga
+10,Himalaya Salon Vegan,36.74031,-4.0913424,"{'type': 'Point', 'coordinates': [36.74031, -4.0913424]}",Vegan,Málaga
+11,Meson Mudejar Vegan,36.838543,-3.9905279,"{'type': 'Point', 'coordinates': [36.838543, -3.9905279]}",Vegan,Málaga
+12,Casa San Andreas Eco Vegan B&B,36.823563,-3.974678,"{'type': 'Point', 'coordinates': [36.823563, -3.974678]}",Vegan,Málaga

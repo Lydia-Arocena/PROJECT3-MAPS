@@ -2,8 +2,7 @@ import requests
 from functools import reduce
 import operator
 import pandas as pd
-from dotenv import load_dotenv
-import os
+
 
 
 def geocode(direccion):
@@ -19,41 +18,33 @@ def geocode(direccion):
         return data
 
 
-def request(ciudad,requirements, client_id, client_secret ):
-
-    url_query = 'https://api.foursquare.com/v2/venues/search'
-
-    dfciudad= pd.DataFrame(colums=["nombre","latitud","longitud","location", "categoria"])
-    for requirement in requirements:
-        parametros = {
-            "client_id": client_id,
-            "client_secret": client_secret,
-            "v": "20180323",
-            "ll": f"{ciudad['coordinates'][0]}, {ciudad['coordinates'][1]}",
-            "query": requirement
-        }
-    
-        result=requests.get(url_query, params = parametros).json()
-        solucion=extraetodo(result["response"]["venues"])
-        df2=pd.DataFrame(solucion)
-        df2["categoria"]= requirement
-        dfciudad.append(df2)
-    return dfciudad
-
-
-
-
-
 
 def getFromDict(diccionario,mapa):
+    """
+    Esta función accede a los values de los diccionarios que contiene un json.
+    Args: diccionario y posición dentro del diccionario donde se encuentra el value que deseo. 
+    Return: Value de un diccionario.
+    """
     return reduce(operator.getitem,mapa,diccionario)
 
 
+
 def type_point(lista):
+    """
+    Esta función sirve para devolver un tipo "point" a partir de una lista de coordenadas.
+    Arg: coordenadas (lista)
+    Return: diccionario donde el primer par es el tipo y el segundo la lista de coordenadas.
+    """
     return {"type":"Point", "coordinates": lista}
 
 
+
 def extraetodo(json):
+    """
+    Esta función sirve para convertir un json en una lista de diccionarios con las keys seleccionadas.
+    Args:json
+    Return: lista de diccionarios.
+    """
     todo = {"nombre": ["name"], "latitud": ["location", "lat"], "longitud": ["location", "lng"]} 
     total = []
     for elemento in json:
@@ -61,6 +52,8 @@ def extraetodo(json):
         libre["location"] = type_point([libre["latitud"], libre["longitud"]])
         total.append(libre)
     return total
+
+
 
 def concat_requirements(df1,df2,df3,df4,df5):
     """
@@ -73,6 +66,11 @@ def concat_requirements(df1,df2,df3,df4,df5):
 
 
 def normalize(df,col):
+    """
+    Esta función normaliza los datos de una columna de un dataframe.
+    Args:dataframe(df) y columna.
+    Return:lista con los datos normalizados de la columna argumento.
+    """
     result = []
     for i,row in df.iterrows():
         mini = df[col].min()
@@ -81,7 +79,14 @@ def normalize(df,col):
     return result
 
 
+
 def weights(df):
+    """
+    Esta función itera por un df multiplicando el dato contenido en la columna "normalizado" por un peso específicco dado.
+    Arg: df.
+    Return: lista de los datos norlizados multiplicados por su peso.
+
+    """
     lista_pesos=[]
     for i,row in df.iterrows():
         if row["categoria"]=="Disco":
@@ -97,10 +102,11 @@ def weights(df):
     return lista_pesos
 
 
+
 def concat_ciudades(df1,df2,df3):
     """
     Esta función concatena los df que le pase.
-    Arg:df1,df2,df3,df4,df5 (dataframes)
+    Arg:df1,df2,df3 (dataframes)
     Return: una único df que es el resultado de la unión de todos los que le paso como parámetros.
     """
     return pd.concat([df1,df2,df3])

@@ -1,0 +1,97 @@
+,nombre,latitud,longitud,location,categoria,ciudad
+7,Escuela Superior De Diseño,40.456287639408785,-3.7127197449656912,"{'type': 'Point', 'coordinates': [40.456287639408785, -3.7127197449656912]}",Diseño,Madrid
+16,Estudio de diseño Juan Gatti,40.423439,-3.686265,"{'type': 'Point', 'coordinates': [40.423439, -3.686265]}",Diseño,Madrid
+22,Flor Canela. Tienda De Diseño. Mercado Fuencarral,40.422942,-3.699797,"{'type': 'Point', 'coordinates': [40.422942, -3.699797]}",Diseño,Madrid
+26,Vivero de Empresas de San Blas. Madrid Emprende,40.44647052853448,-3.612300189204136,"{'type': 'Point', 'coordinates': [40.44647052853448, -3.612300189204136]}",Diseño,Madrid
+27,altura x estudio de diseño,40.40982069830136,-3.705907059330174,"{'type': 'Point', 'coordinates': [40.40982069830136, -3.705907059330174]}",Diseño,Madrid
+0,Starbucks,40.44748872381242,-3.6930934929855574,"{'type': 'Point', 'coordinates': [40.44748872381242, -3.6930934929855574]}",Starbucks,Madrid
+1,Starbucks,40.44772869759542,-3.6951754717412046,"{'type': 'Point', 'coordinates': [40.44772869759542, -3.6951754717412046]}",Starbucks,Madrid
+2,Starbucks,40.455046,-3.693885,"{'type': 'Point', 'coordinates': [40.455046, -3.693885]}",Starbucks,Madrid
+3,Starbucks,40.43296760669224,-3.6832201480865474,"{'type': 'Point', 'coordinates': [40.43296760669224, -3.6832201480865474]}",Starbucks,Madrid
+4,Starbucks,40.4335639178076,-3.6868293595360973,"{'type': 'Point', 'coordinates': [40.4335639178076, -3.6868293595360973]}",Starbucks,Madrid
+5,Starbucks,40.440273,-3.682125,"{'type': 'Point', 'coordinates': [40.440273, -3.682125]}",Starbucks,Madrid
+6,Starbucks,40.424974636524,-3.684107212216363,"{'type': 'Point', 'coordinates': [40.424974636524, -3.684107212216363]}",Starbucks,Madrid
+7,Starbucks,40.42014039388448,-3.702886033408268,"{'type': 'Point', 'coordinates': [40.42014039388448, -3.702886033408268]}",Starbucks,Madrid
+8,Starbucks,40.425760357264515,-3.691781759262085,"{'type': 'Point', 'coordinates': [40.425760357264515, -3.691781759262085]}",Starbucks,Madrid
+9,Starbucks,40.433353,-3.703958,"{'type': 'Point', 'coordinates': [40.433353, -3.703958]}",Starbucks,Madrid
+10,Starbucks,40.421751918201934,-3.7083782102926905,"{'type': 'Point', 'coordinates': [40.421751918201934, -3.7083782102926905]}",Starbucks,Madrid
+11,Starbucks,40.42906874005007,-3.7150786671568476,"{'type': 'Point', 'coordinates': [40.42906874005007, -3.7150786671568476]}",Starbucks,Madrid
+12,Starbucks,40.41719516711848,-3.706118548830636,"{'type': 'Point', 'coordinates': [40.41719516711848, -3.706118548830636]}",Starbucks,Madrid
+13,Starbucks,40.418038185194774,-3.699371513099982,"{'type': 'Point', 'coordinates': [40.418038185194774, -3.699371513099982]}",Starbucks,Madrid
+14,Starbucks,40.426066801136066,-3.6756167469058876,"{'type': 'Point', 'coordinates': [40.426066801136066, -3.6756167469058876]}",Starbucks,Madrid
+15,Starbucks,40.417539,-3.702775,"{'type': 'Point', 'coordinates': [40.417539, -3.702775]}",Starbucks,Madrid
+16,Starbucks,40.423319643246955,-3.710882844657412,"{'type': 'Point', 'coordinates': [40.423319643246955, -3.710882844657412]}",Starbucks,Madrid
+17,Starbucks,40.459101,-3.685668,"{'type': 'Point', 'coordinates': [40.459101, -3.685668]}",Starbucks,Madrid
+18,Starbucks,40.41573297582015,-3.708717822655616,"{'type': 'Point', 'coordinates': [40.41573297582015, -3.708717822655616]}",Starbucks,Madrid
+19,Starbucks,40.423112989750564,-3.700798408458431,"{'type': 'Point', 'coordinates': [40.423112989750564, -3.700798408458431]}",Starbucks,Madrid
+20,Starbucks,40.427274,-3.695356,"{'type': 'Point', 'coordinates': [40.427274, -3.695356]}",Starbucks,Madrid
+21,Starbucks,40.419667845686355,-3.7061354223688325,"{'type': 'Point', 'coordinates': [40.419667845686355, -3.7061354223688325]}",Starbucks,Madrid
+22,Starbucks,40.40885214578761,-3.693236539287397,"{'type': 'Point', 'coordinates': [40.40885214578761, -3.693236539287397]}",Starbucks,Madrid
+23,Starbucks,40.463373433797436,-3.569932193974597,"{'type': 'Point', 'coordinates': [40.463373433797436, -3.569932193974597]}",Starbucks,Madrid
+24,Starbucks,40.418149367007935,-3.709949400269419,"{'type': 'Point', 'coordinates': [40.418149367007935, -3.709949400269419]}",Starbucks,Madrid
+25,Starbucks,40.420450975922165,-3.6796733064135796,"{'type': 'Point', 'coordinates': [40.420450975922165, -3.6796733064135796]}",Starbucks,Madrid
+26,Starbucks,40.421095,-3.70256,"{'type': 'Point', 'coordinates': [40.421095, -3.70256]}",Starbucks,Madrid
+27,Starbucks,40.421949993513195,-3.7203776278003375,"{'type': 'Point', 'coordinates': [40.421949993513195, -3.7203776278003375]}",Starbucks,Madrid
+28,Starbucks,40.49768721643861,-3.660368141302403,"{'type': 'Point', 'coordinates': [40.49768721643861, -3.660368141302403]}",Starbucks,Madrid
+29,Starbucks,40.41748942152583,-3.70466514037747,"{'type': 'Point', 'coordinates': [40.41748942152583, -3.70466514037747]}",Starbucks,Madrid
+4,Aeropuerto Adolfo Suárez Madrid-Barajas (MAD) (Aeropuerto Adolfo Suárez Madrid-Barajas),40.4902221628413,-3.569434148638026,"{'type': 'Point', 'coordinates': [40.4902221628413, -3.569434148638026]}",aeropuerto,Madrid
+17,#NASF AIRPORT,40.464236,-3.569769,"{'type': 'Point', 'coordinates': [40.464236, -3.569769]}",aeropuerto,Madrid
+23,Parada Atocha Renfe - Línea Exprés Aeropuerto,40.40672410393115,-3.689762820472258,"{'type': 'Point', 'coordinates': [40.40672410393115, -3.689762820472258]}",aeropuerto,Madrid
+0,Disco Rug & Play,40.451888,-3.696266,"{'type': 'Point', 'coordinates': [40.451888, -3.696266]}",Disco,Madrid
+1,Panamericana Disco,40.45280604818057,-3.69026365205175,"{'type': 'Point', 'coordinates': [40.45280604818057, -3.69026365205175]}",Disco,Madrid
+2,Disco Yedra Pub,40.43404091293134,-3.7146179692661665,"{'type': 'Point', 'coordinates': [40.43404091293134, -3.7146179692661665]}",Disco,Madrid
+3,Disco Express,40.43453891479882,-3.7102566199933347,"{'type': 'Point', 'coordinates': [40.43453891479882, -3.7102566199933347]}",Disco,Madrid
+4,Destellos Pub Disco,40.437681716253415,-3.709904754775487,"{'type': 'Point', 'coordinates': [40.437681716253415, -3.709904754775487]}",Disco,Madrid
+5,Disco Chiki,40.43615149685063,-3.6628238583166395,"{'type': 'Point', 'coordinates': [40.43615149685063, -3.6628238583166395]}",Disco,Madrid
+6,Boom Indie Disco,40.430214,-3.696407,"{'type': 'Point', 'coordinates': [40.430214, -3.696407]}",Disco,Madrid
+7,Discoteca Marmara,40.45789550901653,-3.685939460577314,"{'type': 'Point', 'coordinates': [40.45789550901653, -3.685939460577314]}",Disco,Madrid
+8,El Cuerpo del Disco,40.429278274646485,-3.7016638786064093,"{'type': 'Point', 'coordinates': [40.429278274646485, -3.7016638786064093]}",Disco,Madrid
+9,Disco Prive,40.42467498779297,-3.7232131958007812,"{'type': 'Point', 'coordinates': [40.42467498779297, -3.7232131958007812]}",Disco,Madrid
+10,Amigos Del Disco,40.43543766589138,-3.715594368212833,"{'type': 'Point', 'coordinates': [40.43543766589138, -3.715594368212833]}",Disco,Madrid
+11,Strong Disco,40.418643338955846,-3.707425585280147,"{'type': 'Point', 'coordinates': [40.418643338955846, -3.707425585280147]}",Disco,Madrid
+12,Disco Pub La Noche,40.413919,-3.712737,"{'type': 'Point', 'coordinates': [40.413919, -3.712737]}",Disco,Madrid
+13,Kruster Disco,40.422723,-3.691476,"{'type': 'Point', 'coordinates': [40.422723, -3.691476]}",Disco,Madrid
+14,Mondino disco,40.435116365349465,-3.7161247044603436,"{'type': 'Point', 'coordinates': [40.435116365349465, -3.7161247044603436]}",Disco,Madrid
+15,Aure's Palace Disco & Bar,40.43586730957031,-3.658864974975586,"{'type': 'Point', 'coordinates': [40.43586730957031, -3.658864974975586]}",Disco,Madrid
+16,Discoteca Sueños,40.457673665790686,-3.7012377483088637,"{'type': 'Point', 'coordinates': [40.457673665790686, -3.7012377483088637]}",Disco,Madrid
+17,La Joyeria  Disco Pub,40.41516659625823,-3.7023328113100193,"{'type': 'Point', 'coordinates': [40.41516659625823, -3.7023328113100193]}",Disco,Madrid
+18,la cubana discoteca,40.450147,-3.695196,"{'type': 'Point', 'coordinates': [40.450147, -3.695196]}",Disco,Madrid
+19,discoteca sueño latino,40.45590105398211,-3.701138648753884,"{'type': 'Point', 'coordinates': [40.45590105398211, -3.701138648753884]}",Disco,Madrid
+20,Dino's HD Disco Bar,40.43394818881534,-3.6435055508408056,"{'type': 'Point', 'coordinates': [40.43394818881534, -3.6435055508408056]}",Disco,Madrid
+21,Discoteca Nells Madrid,40.439664,-3.682127,"{'type': 'Point', 'coordinates': [40.439664, -3.682127]}",Disco,Madrid
+22,Discoteca BAO-BAB Madrid,40.453919368184145,-3.6776626110076904,"{'type': 'Point', 'coordinates': [40.453919368184145, -3.6776626110076904]}",Disco,Madrid
+23,Disco Mama Pachanga,40.39505194957783,-3.6613460602834906,"{'type': 'Point', 'coordinates': [40.39505194957783, -3.6613460602834906]}",Disco,Madrid
+24,"DISCO, S.L.",40.465399,-3.802089,"{'type': 'Point', 'coordinates': [40.465399, -3.802089]}",Disco,Madrid
+25,Si Disco Bar,40.40348523555184,-3.6788889381640186,"{'type': 'Point', 'coordinates': [40.40348523555184, -3.6788889381640186]}",Disco,Madrid
+26,Connection Disco Club,40.41877774406084,-3.703224735333841,"{'type': 'Point', 'coordinates': [40.41877774406084, -3.703224735333841]}",Disco,Madrid
+27,Cachamba Disco,40.431087613105774,-3.64970326423645,"{'type': 'Point', 'coordinates': [40.431087613105774, -3.64970326423645]}",Disco,Madrid
+28,Discovery Formación,40.458481,-3.680256,"{'type': 'Point', 'coordinates': [40.458481, -3.680256]}",Disco,Madrid
+29,El Final Disco,40.426136,-3.655518,"{'type': 'Point', 'coordinates': [40.426136, -3.655518]}",Disco,Madrid
+0,Vegan Streets Madrid Castellana,40.4424564,-3.679973,"{'type': 'Point', 'coordinates': [40.4424564, -3.679973]}",Vegan,Madrid
+1,Vegan Streets Madrid Centro,40.4175117,-3.6976358,"{'type': 'Point', 'coordinates': [40.4175117, -3.6976358]}",Vegan,Madrid
+2,vegetarian / vegan restaurant,40.432974,-3.686693,"{'type': 'Point', 'coordinates': [40.432974, -3.686693]}",Vegan,Madrid
+3,Mad Mad Vegan,40.424183,-3.7007315,"{'type': 'Point', 'coordinates': [40.424183, -3.7007315]}",Vegan,Madrid
+4,Los Andenes Vegan,40.435206,-3.710348,"{'type': 'Point', 'coordinates': [40.435206, -3.710348]}",Vegan,Madrid
+5,Vegan bistro,40.41941020023746,-3.679066382765086,"{'type': 'Point', 'coordinates': [40.41941020023746, -3.679066382765086]}",Vegan,Madrid
+6,Delish Vegan Doughnuts,40.425026,-3.701933,"{'type': 'Point', 'coordinates': [40.425026, -3.701933]}",Vegan,Madrid
+7,THUNDER VEGAN FOOD,40.42445,-3.702513,"{'type': 'Point', 'coordinates': [40.42445, -3.702513]}",Vegan,Madrid
+8,Mad Mad Vegan,40.411118,-3.7029,"{'type': 'Point', 'coordinates': [40.411118, -3.7029]}",Vegan,Madrid
+9,Delish Vegan Doughnuts,40.42694912512703,-3.7100989203246573,"{'type': 'Point', 'coordinates': [40.42694912512703, -3.7100989203246573]}",Vegan,Madrid
+10,pura vida vegan bar,40.41020847303393,-3.709029348112721,"{'type': 'Point', 'coordinates': [40.41020847303393, -3.709029348112721]}",Vegan,Madrid
+11,Green Break Vegan Take Away,40.41374928145229,-3.713475465774536,"{'type': 'Point', 'coordinates': [40.41374928145229, -3.713475465774536]}",Vegan,Madrid
+12,Vegan Rock,40.364865,-3.550834,"{'type': 'Point', 'coordinates': [40.364865, -3.550834]}",Vegan,Madrid
+13,La Vegana de Madrid,40.45738604044665,-3.6514153171630985,"{'type': 'Point', 'coordinates': [40.45738604044665, -3.6514153171630985]}",Vegan,Madrid
+14,Lombarda Vegana,40.426772,-3.698705,"{'type': 'Point', 'coordinates': [40.426772, -3.698705]}",Vegan,Madrid
+16,El Templo Vegano,40.426277,-3.6993492,"{'type': 'Point', 'coordinates': [40.426277, -3.6993492]}",Vegan,Madrid
+17,Punto Vegano,40.42482121229684,-3.71585210102297,"{'type': 'Point', 'coordinates': [40.42482121229684, -3.71585210102297]}",Vegan,Madrid
+18,RESTAURANTE VEGANO PLANT GRILL,40.41558314100989,-3.701298236846924,"{'type': 'Point', 'coordinates': [40.41558314100989, -3.701298236846924]}",Vegan,Madrid
+19,Vegania Veggie Bar,40.385241,-3.747971,"{'type': 'Point', 'coordinates': [40.385241, -3.747971]}",Vegan,Madrid
+20,Planeta Vegano,40.410285211735406,-3.7005242358441492,"{'type': 'Point', 'coordinates': [40.410285211735406, -3.7005242358441492]}",Vegan,Madrid
+21,productos latinos. Vegana,40.42533166982279,-3.655518984455329,"{'type': 'Point', 'coordinates': [40.42533166982279, -3.655518984455329]}",Vegan,Madrid
+22,Alimentación Vegana,40.4224956,-3.6553774,"{'type': 'Point', 'coordinates': [40.4224956, -3.6553774]}",Vegan,Madrid
+23,Mi Cabra Vegana,40.43714051642714,-3.641946315765381,"{'type': 'Point', 'coordinates': [40.43714051642714, -3.641946315765381]}",Vegan,Madrid
+24,Distrito Vegano,40.40697203771007,-3.6996788206851368,"{'type': 'Point', 'coordinates': [40.40697203771007, -3.6996788206851368]}",Vegan,Madrid
+25,Dolce & Vegana,40.413803,-3.717875,"{'type': 'Point', 'coordinates': [40.413803, -3.717875]}",Vegan,Madrid
+26,La Dimensión Vegana,40.40728877702829,-3.6739728746243916,"{'type': 'Point', 'coordinates': [40.40728877702829, -3.6739728746243916]}",Vegan,Madrid
+27,Planeta Vegano,40.40853387654168,-3.700900810613643,"{'type': 'Point', 'coordinates': [40.40853387654168, -3.700900810613643]}",Vegan,Madrid
+28,Encuentro Vegano,40.406691,-3.639279,"{'type': 'Point', 'coordinates': [40.406691, -3.639279]}",Vegan,Madrid
