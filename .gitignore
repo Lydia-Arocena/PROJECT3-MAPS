@@ -1,2 +1,12 @@
 src/__pycache__/functions.cpython-38.pyc
-Notebooks/.ipynb_checkpoints
+Notebooks/.ipynb_checkpoints/
+.env
+
+*/**.ipynb_checkpoints
+*/**__pycache__
+
+
+
+
+
+

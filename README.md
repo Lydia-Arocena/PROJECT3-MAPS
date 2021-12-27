@@ -15,6 +15,11 @@ In order to choose the ideal location, we have been given some requirements and 
 - If you want to make the maintenance guy happy, a basketball stadium must be around 10 Km.
 - The office dog—"Dobby" needs a hairdresser every month. Ensure there's one not too far away.
 
+The above 5 requirements have been selected because:
+-  Designers are a key piece within a gaming company.
+-  Having an airport nearby is essential if part of team has to travel a lot (in this case: account managers).
+-  It is important to keep executives and the CEO happy for the wellbeing of the company and the rest of its employees. 
+- Leisure is also a crucial part of everyone lives: happy employees, better performance, higher profits.
 
 ​
 # Working plan 
@@ -25,7 +30,7 @@ Then, I have chosen a exact point in those cities. By getting their coordinates,
 
 Once I have collected all this information for each city, I have import this to Mongo DB Compass where I have created 3 different collections (one for each city). 
 ​
-After that, I have used a Mongo method called "geoNear". This have allowed me not only set a maximum radio of distance but also calculating the distances between the coordinates of origin and the information obtained from Foursquare.
+After that, I have used a Mongo method called [geoNear](https://docs.mongodb.com/manual/reference/operator/aggregation/geoNear/). This have allowed me not only set a maximum radio of distance but also calculating the distances between the coordinates of origin and the information obtained from Foursquare.
 ​
 For the final decision of the location I have normalize these distances per category and weighted them. In the end, a ranking has been obtained on which the final decision was based. 
 ​
@@ -51,19 +56,19 @@ The structure of this project is composed of:
 ​
 # Libraries
 ​
-- sys(https://docs.python.org/3/library/sys.html)
-- requests(https://pypi.org/project/requests/2.7.0/)
-- pandas(https://pandas.pydata.org/)
-- dotenv(https://pypi.org/project/python-dotenv/)
-- pymongo](https://www.mongodb.com/2)
-- json(https://docs.python.org/3/library/json.html)
-- os(https://docs.python.org/3/library/os.html)
-- reduce(https://docs.python.org/3/library/functools.html)
-- operator(https://docs.python.org/3/library/operator.html)
-- dumps(https://pymongo.readthedocs.io/en/stable/api/bson/json_util.html)
-- MongoClient(https://www.mongodb.com/)
-- GEOSPHERE(https://www.mongodb.com/) 
-- folium(https://pypi.org/project/folium)
-- Marker, Icon, Map(https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
+- [sys](https://docs.python.org/3/library/sys.html)
+- [requests](https://pypi.org/project/requests/2.7.0/)
+- [pandas](https://pandas.pydata.org/)
+- [dotenv](https://pypi.org/project/python-dotenv/)
+- [pymongo](https://www.mongodb.com/2)
+- [json](https://docs.python.org/3/library/json.html)
+- [os](https://docs.python.org/3/library/os.html)
+- [reduce](https://docs.python.org/3/library/functools.html)
+- [operator](https://docs.python.org/3/library/operator.html)
+- [dumps](https://pymongo.readthedocs.io/en/stable/api/bson/json_util.html)
+- [MongoClient](https://www.mongodb.com/)
+- [GEOSPHERE](https://www.mongodb.com/) 
+- [folium](https://pypi.org/project/folium)
+- [Marker, Icon, Map](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
 
 
